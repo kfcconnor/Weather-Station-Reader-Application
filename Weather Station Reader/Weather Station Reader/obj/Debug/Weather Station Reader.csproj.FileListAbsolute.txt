@@ -1,0 +1,106 @@
+c:\users\computing\documents\visual studio 2015\Projects\Weather Station Reader\Weather Station Reader\bin\Debug\Weather Station Reader.dll
+c:\users\computing\documents\visual studio 2015\Projects\Weather Station Reader\Weather Station Reader\bin\Debug\Weather Station Reader.pdb
+c:\users\computing\documents\visual studio 2015\Projects\Weather Station Reader\Weather Station Reader\bin\Debug\Weather_Station_Reader.Weather_Station_Reader.apk
+c:\users\computing\documents\visual studio 2015\Projects\Weather Station Reader\Weather Station Reader\bin\Debug\Weather_Station_Reader.Weather_Station_Reader-Signed.apk
+c:\users\computing\documents\visual studio 2015\Projects\Weather Station Reader\Weather Station Reader\obj\Debug\Weather Station Reader.csprojResolveAssemblyReference.cache
+c:\users\computing\documents\visual studio 2015\Projects\Weather Station Reader\Weather Station Reader\obj\Debug\Weather Station Reader.dll
+c:\users\computing\documents\visual studio 2015\Projects\Weather Station Reader\Weather Station Reader\obj\Debug\Weather Station Reader.pdb
+c:\users\computing\documents\visual studio 2015\Projects\Weather Station Reader\Weather Station Reader\obj\Debug\android\bin\Weather_Station_Reader.Weather_Station_Reader.apk
+c:\users\computing\documents\visual studio 2015\Projects\Weather Station Reader\Weather Station Reader\obj\Debug\res\layout\main.xml
+c:\users\computing\documents\visual studio 2015\Projects\Weather Station Reader\Weather Station Reader\obj\Debug\res\values\strings.xml
+c:\users\computing\documents\visual studio 2015\Projects\Weather Station Reader\Weather Station Reader\obj\Debug\res\drawable\icon.png
+c:\users\computing\documents\visual studio 2015\Projects\Weather Station Reader\Weather Station Reader\obj\Debug\R.cs.flag
+c:\users\computing\documents\visual studio 2015\Projects\Weather Station Reader\Weather Station Reader\obj\Debug\uploadflags.txt
+c:\users\computing\documents\visual studio 2015\Projects\Weather Station Reader\Weather Station Reader\bin\Debug\Weather Station Reader.dll.mdb
+c:\users\computing\documents\visual studio 2015\Projects\Weather Station Reader\Weather Station Reader\bin\Debug\Java.Interop.dll.mdb
+c:\users\computing\documents\visual studio 2015\Projects\Weather Station Reader\Weather Station Reader\bin\Debug\Mono.Android.dll.mdb
+c:\users\computing\documents\visual studio 2015\Projects\Weather Station Reader\Weather Station Reader\bin\Debug\mscorlib.dll.mdb
+c:\users\computing\documents\visual studio 2015\Projects\Weather Station Reader\Weather Station Reader\bin\Debug\System.ComponentModel.Composition.dll.mdb
+c:\users\computing\documents\visual studio 2015\Projects\Weather Station Reader\Weather Station Reader\bin\Debug\System.Core.dll.mdb
+c:\users\computing\documents\visual studio 2015\Projects\Weather Station Reader\Weather Station Reader\bin\Debug\System.dll.mdb
+c:\users\computing\documents\visual studio 2015\Projects\Weather Station Reader\Weather Station Reader\bin\Debug\System.Net.Http.dll.mdb
+c:\users\computing\documents\visual studio 2015\Projects\Weather Station Reader\Weather Station Reader\bin\Debug\System.Runtime.Serialization.dll.mdb
+c:\users\computing\documents\visual studio 2015\Projects\Weather Station Reader\Weather Station Reader\bin\Debug\System.ServiceModel.Internals.dll.mdb
+c:\users\computing\documents\visual studio 2015\Projects\Weather Station Reader\Weather Station Reader\bin\Debug\System.Xml.dll.mdb
+c:\users\computing\documents\visual studio 2015\Projects\Weather Station Reader\Weather Station Reader\bin\Debug\System.Xml.Linq.dll.mdb
+c:\users\computing\documents\visual studio 2015\Projects\Weather Station Reader\Weather Station Reader\obj\Debug\android\assets\Java.Interop.dll.mdb
+c:\users\computing\documents\visual studio 2015\Projects\Weather Station Reader\Weather Station Reader\obj\Debug\android\assets\Mono.Android.dll.mdb
+c:\users\computing\documents\visual studio 2015\Projects\Weather Station Reader\Weather Station Reader\obj\Debug\android\assets\mscorlib.dll.mdb
+c:\users\computing\documents\visual studio 2015\Projects\Weather Station Reader\Weather Station Reader\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+c:\users\computing\documents\visual studio 2015\Projects\Weather Station Reader\Weather Station Reader\obj\Debug\android\assets\System.Core.dll.mdb
+c:\users\computing\documents\visual studio 2015\Projects\Weather Station Reader\Weather Station Reader\obj\Debug\android\assets\System.dll.mdb
+c:\users\computing\documents\visual studio 2015\Projects\Weather Station Reader\Weather Station Reader\obj\Debug\android\assets\System.Net.Http.dll.mdb
+c:\users\computing\documents\visual studio 2015\Projects\Weather Station Reader\Weather Station Reader\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+c:\users\computing\documents\visual studio 2015\Projects\Weather Station Reader\Weather Station Reader\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+c:\users\computing\documents\visual studio 2015\Projects\Weather Station Reader\Weather Station Reader\obj\Debug\android\assets\System.Xml.dll.mdb
+c:\users\computing\documents\visual studio 2015\Projects\Weather Station Reader\Weather Station Reader\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+c:\users\computing\documents\visual studio 2015\Projects\Weather Station Reader\Weather Station Reader\obj\Debug\android\assets\Weather Station Reader.dll.mdb
+c:\users\computing\documents\visual studio 2015\Projects\Weather Station Reader\Weather Station Reader\bin\Debug\RestSharp.dll
+c:\users\computing\documents\visual studio 2015\Projects\Weather Station Reader\Weather Station Reader\bin\Debug\RestSharp.xml
+c:\users\computing\documents\visual studio 2015\Projects\Weather Station Reader\Weather Station Reader\obj\Debug\res\layout\getdata.xml
+c:\users\computing\documents\visual studio 2015\Projects\Weather Station Reader\Weather Station Reader\bin\Debug\Microsoft.CSharp.dll.mdb
+c:\users\computing\documents\visual studio 2015\Projects\Weather Station Reader\Weather Station Reader\bin\Debug\Mono.CSharp.dll.mdb
+c:\users\computing\documents\visual studio 2015\Projects\Weather Station Reader\Weather Station Reader\bin\Debug\System.IO.Compression.dll.mdb
+c:\users\computing\documents\visual studio 2015\Projects\Weather Station Reader\Weather Station Reader\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+c:\users\computing\documents\visual studio 2015\Projects\Weather Station Reader\Weather Station Reader\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+c:\users\computing\documents\visual studio 2015\Projects\Weather Station Reader\Weather Station Reader\obj\Debug\android\assets\System.IO.Compression.dll.mdb
+c:\users\computing\documents\visual studio 2015\Projects\Weather Station Reader\Weather Station Reader\bin\Debug\Newtonsoft.Json.dll
+c:\users\computing\documents\visual studio 2015\Projects\Weather Station Reader\Weather Station Reader\bin\Debug\Newtonsoft.Json.xml
+c:\users\computing\documents\visual studio 2015\Projects\Weather Station Reader\Weather Station Reader\obj\Debug\Weather Station Reader.dll.mdb
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\bin\Debug\Weather Station Reader.dll
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\bin\Debug\Weather Station Reader.pdb
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\bin\Debug\Weather_Station_Reader.Weather_Station_Reader.apk
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\bin\Debug\Weather_Station_Reader.Weather_Station_Reader-Signed.apk
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\bin\Debug\RestSharp.dll
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\bin\Debug\RestSharp.xml
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\obj\Debug\Weather Station Reader.csprojResolveAssemblyReference.cache
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\obj\Debug\Weather Station Reader.dll
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\obj\Debug\Weather Station Reader.pdb
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\obj\Debug\android\bin\Weather_Station_Reader.Weather_Station_Reader.apk
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\obj\Debug\res\layout\getdata.xml
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\obj\Debug\res\layout\main.xml
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\obj\Debug\res\values\strings.xml
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\obj\Debug\res\drawable\icon.png
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\obj\Debug\R.cs.flag
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\obj\Debug\uploadflags.txt
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\bin\Debug\mscorlib.dll.mdb
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\bin\Debug\System.Core.dll.mdb
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\bin\Debug\System.dll.mdb
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\bin\Debug\System.IO.Compression.dll.mdb
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\bin\Debug\System.Numerics.dll.mdb
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\bin\Debug\System.Xml.dll.mdb
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\bin\Debug\Weather Station Reader.dll.mdb
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\obj\Debug\android\assets\System.IO.Compression.dll.mdb
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\obj\Debug\android\assets\System.Numerics.dll.mdb
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\obj\Debug\android\assets\Weather Station Reader.dll.mdb
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\obj\Debug\res\layout\dataoutput.xml
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\obj\Debug\res\layout\deletedata.xml
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\obj\Debug\res\layout\accessdataoutput.xml
+C:\Users\Computing\Downloads\Weather Station Reader\Weather Station Reader\obj\Debug\Weather Station Reader.dll.mdb
+C:\Users\conno\Downloads\CMP9138M_THO13389240\Weather Station Reader\Weather Station Reader\obj\Debug\Weather Station Reader.csprojResolveAssemblyReference.cache
+C:\Users\conno\Downloads\CMP9138M_THO13389240\Weather Station Reader\Weather Station Reader\obj\Debug\Weather Station Reader.dll
+C:\Users\conno\Downloads\CMP9138M_THO13389240\Weather Station Reader\Weather Station Reader\obj\Debug\Weather Station Reader.pdb

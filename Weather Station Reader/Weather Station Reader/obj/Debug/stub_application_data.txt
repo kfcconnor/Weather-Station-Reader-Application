@@ -1,0 +1,2 @@
+android.app.Application
+Weather_Station_Reader.Weather_Station_Reader
